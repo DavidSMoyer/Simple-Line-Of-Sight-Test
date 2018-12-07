@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ The\ constructor\ for\ the\ Player\ object.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ controls()
+comment3.text=\r\n\ Makes\ the\ player\ face\ the\ mouse,\ and\ moves\ the\ player\ if\ the\ corrosponding\ keys\ are\ pressed\ for\ each\ direction.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment4.params=
+comment4.target=void\ damage()
+comment4.text=\r\n\ Reduces\ the\ player's\ health\ by\ 1\ and\ makes\ them\ invisible\ for\ 20\ act\ cycles.\ If\ the\ player's\ health\ has\ dropped\ to\ 0\ it\ will\ delete\ them.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+numComments=5

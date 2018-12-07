@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LOSDetector
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LOSDetector\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=direction\ i
+comment1.target=LOSDetector(int,\ int)
+comment1.text=\r\n\ The\ constructor\ of\ the\ LOSDetector\ object.\r\n\ \r\n\ @param\ direction\ The\ direction\ the\ object\ initially\ faces.\r\n\ @param\ i\ The\ id\ of\ the\ enemy\ creating\ it.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ LOSDetector\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ blocking()
+comment3.text=\r\n\ Deletes\ itself\ if\ it\ comes\ into\ contact\ with\ a\ Line\ of\ Sight\ blocker\ or\ the\ edge\ of\ the\ world.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment4.params=
+comment4.target=void\ findPlayer()
+comment4.text=\r\n\ If\ it\ is\ touching\ the\ player\ it\ will\ find\ the\ enemy\ with\ the\ same\ id\ and\ make\ them\ fire\ at\ the\ player.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+numComments=5
